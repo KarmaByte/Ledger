@@ -1,0 +1,18 @@
+{
+  "Group": "KarmaByte",
+  "Name": "Ledger",
+  "Version": "1.0.0",
+  "Description": "Economy API for Hytale servers - like Vault for Minecraft",
+  "Main": "dev.karmabyte.ledger.core.LedgerPlugin",
+  "Authors": [
+    {
+      "Name": "KarmaByte",
+      "Url": "https://github.com/KarmaByte"
+    }
+  ],
+  "Website": "https://github.com/KarmaByte/Ledger",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}

@@ -1,0 +1,51 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+run/
+server/
+
+# Build outputs
+out/
+bin/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Secrets
+.env
+*.env
+credentials.json
+secrets.json
+
+# Hytale server JAR (not redistributable)
+libs/*.jar
+!libs/README.md
+
+# Internal development files
+PROGRESS.md
+deploy.sh
+docs/AUDIT.md
+docs/MASTER_PLAN.md
+tmp*
