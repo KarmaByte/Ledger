@@ -19,7 +19,7 @@ Ledger is a modern, async-first economy API for Hytale servers. It provides a st
 
 ## Installation
 
-1. Download `Ledger-1.0.0.jar` from [Releases](https://github.com/KarmaByte-SL/Ledger/releases)
+1. Download `Ledger-1.0.0.jar` from [Releases]([https://github.com/KarmaByte-SL/Ledger/releases](https://github.com/KarmaByte/Ledger/releases/tag/v1.0.0))
 2. Place in your Hytale server's `Mods` folder
 3. Restart the server
 4. Configuration files will be generated in `mods/KarmaByte_Ledger/`
